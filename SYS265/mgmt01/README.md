@@ -1,2 +1,1 @@
 hostname
-docker01 configuration
