@@ -1,1 +1,1 @@
-This is your hostname: mgmt01-jeffrey
+mgmt01-jeffrey
